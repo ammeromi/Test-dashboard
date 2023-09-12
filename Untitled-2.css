@@ -1,0 +1,36 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .data {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .track {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        #clock {
+            font-size: 36px;
+        }
+        #current-day {
+            font-size: 36px;
+        }
+        .centered-image {
+            width: 300px; /* Set the desired width */
+            height: auto; /* Maintain aspect ratio */
+            display: block; /* Make it a block element */
+            margin: 0 auto; /* Center horizontally */
+        }
